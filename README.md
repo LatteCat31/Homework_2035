@@ -8,3 +8,5 @@ This repository is for storing the tasks for the project 2035
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <!---Пример кода-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&width=435&lines=Student%E2%80%99s+homework+on+the+project;Code+of+the+Future%3A+University+2035)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LatteCat31)](https://git.io/streak-stats)
